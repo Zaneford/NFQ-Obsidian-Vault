@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"7504a586034a3fcc","x":-500,"y":-180,"width":250,"height":60,"type":"text","text":"Phone"},
+		{"id":"d1e8f6b6f7296747","x":-125,"y":-180,"width":250,"height":60,"type":"text","text":"TAQ (Black Box)"},
+		{"id":"21852caf5a17aa0f","x":260,"y":-180,"width":250,"height":60,"type":"text","text":"Distributed Ledger"},
+		{"id":"3a8539fc887243f3","x":-502,"y":205,"width":250,"height":60,"type":"text","text":""},
+		{"id":"50ad2567e2af292a","x":-122,"y":207,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d7f40c6f4ea930f1","x":260,"y":212,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"fe9a35eb4328d3f2","fromNode":"7504a586034a3fcc","fromSide":"bottom","toNode":"3a8539fc887243f3","toSide":"top"},
+		{"id":"1046ef6e73957594","fromNode":"d1e8f6b6f7296747","fromSide":"bottom","toNode":"50ad2567e2af292a","toSide":"top"},
+		{"id":"5a2090ff440d2856","fromNode":"21852caf5a17aa0f","fromSide":"bottom","toNode":"d7f40c6f4ea930f1","toSide":"top"},
+		{"id":"d0c4d7b6b9fc7ca4","fromNode":"7504a586034a3fcc","fromSide":"bottom","toNode":"d1e8f6b6f7296747","toSide":"bottom"}
+	]
+}
