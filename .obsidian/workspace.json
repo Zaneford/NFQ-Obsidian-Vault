@@ -43,24 +43,16 @@
             "id": "90ebd3f2bfc23411",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "White Paper/WP - GPT_1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "b2747e771e8ac7dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "White Paper/WP - Draft 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -69,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website/Tabs/Problem.md",
+                "file": "Website/Content.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Website/Tabs/Problem.md",
+                "file": "Website/Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Website/Tabs/Problem.md",
+                "file": "Website/Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Website/Tabs/Problem.md"
+                "file": "Website/Content.md"
               }
             }
           }
@@ -206,6 +198,8 @@
   },
   "active": "66ee45c0b7bce779",
   "lastOpenFiles": [
+    "Website/Outline.md",
+    "Website/Content.md",
     "White Paper/WP - Outline.md",
     "White Paper/WP - Final.md",
     "White Paper",
