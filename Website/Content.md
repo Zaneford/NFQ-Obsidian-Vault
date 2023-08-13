@@ -13,7 +13,7 @@ empower *any* physical business to eliminate or reduce paperwork by harnessing a
 scale and increase type of applications
 automate paperwork and menial processes
 
-### Business Model
+# Business Model
 standard smart contract library and basic application software are *included* with hardware purchase.
 liberate businesses away from subscription and transaction fees.
 scale to many types of basic businesses, which will likely add more modules in their lifecycle
@@ -26,3 +26,15 @@ Inventory management
 Book-keeping 
 External API
 Tailor-made application development
+
+
+# Problem
+### Middlemen
+
+
+### Oracle Challenge
+The Oracle problem encapsulates a critical dilemma. While smart contracts excel in executing predetermined logic on the blockchain, they are inherently isolated from real-world events and external data sources. This creates a formidable obstacle for their practical application in scenarios that demand interaction with real-world variables.
+
+Smart contracts, while efficient in digital spaces, grapple with a fundamental limitation when dealing with real-world events. This "Oracle challenge" refers to the difficulty of connecting smart contracts to trustworthy external data sources in order to make informed decisions based on real-world occurrences.
+
+The Oracle problem refers to the challenge of seamlessly integrating real-world data into smart contracts on a blockchain, ensuring secure, trustworthy, and timely execution while maintaining the decentralized ethos.
