@@ -22,15 +22,18 @@ NFQ will develop value-add modules to extend functionality for different applica
 Custom smart contracts/development
 Independent, private blockchains
 Credit tokens (promissory notes)
-Inventory management
-Book-keeping 
+NFT Inventory management
+Book-keeping/analysis
+Reservation/booking
+Multi-party agreements
+Inspections/signature triggers
 External API
 Tailor-made application development
 
 
 # Problem
 ### Middlemen
-
+Intermediaries are meant to help businesses facilitate transactions, but multiple middlemen can do more harm than the value they add. are all about coordination and agreement facilitation. Profits are already marginal for small to med businesses, but subscription and transaction fees eat away the hard work businesses owners face every day to keep their businesses alive and running well.
 
 ### Oracle Challenge
 The Oracle problem encapsulates a critical dilemma. While smart contracts excel in executing predetermined logic on the blockchain, they are inherently isolated from real-world events and external data sources. This creates a formidable obstacle for their practical application in scenarios that demand interaction with real-world variables.
