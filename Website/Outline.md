@@ -27,3 +27,18 @@ solution summary
 - free, closed source oracle 
 - value-add cost basis for plugins
 - application-specific packages
+
+# target markets
+small to med. physical-based businesses
+tokenize-able asset
+equipment rental
+ 
+
+# frequently asked questions
+- what is a smart contract?
+- what is an NFT?
+- why use NFC?
+- how can transactions be free?
+- what is an oracle?
+- where will the paperwork go?
+- 

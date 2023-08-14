@@ -21,12 +21,12 @@ scale to many types of basic businesses, which will likely add more modules in t
 NFQ will develop value-add modules to extend functionality for different applications:
 Custom smart contracts/development
 Independent, private blockchains
-Credit tokens (promissory notes)
 NFT Inventory management
-Book-keeping/analysis
-Reservation/booking
+Credit tokens (promissory notes)
 Multi-party agreements
 Inspections/signature triggers
+Access control systems
+Business tools (e.g. booking, book-keeping)
 External API
 Tailor-made application development
 
